@@ -1,6 +1,5 @@
 wallet-risk-scoring/
-│
-├── wallet_utils.py
-├── wallet_risk_scoring.py
-├── wallets.csv (input)
-└── wallet_risk_scores.csv (output)
+├── main.py
+├── aave_utils.py
+├── input_wallets.csv
+└── output_scores.csv
